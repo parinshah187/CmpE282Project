@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>The Next Basket Item</title>
+<link type="text/css" rel="stylesheet" href="assets/css/bootstrap.css" />
+</head>
+
+<body>
+	<div class="container">
+		<h1>
+			<a href="#">The Next Basket Item</a>
+		</h1>
+
+		<div class="navbar">
+			<div class="navbar-inner">
+				<div class="container">
+					<ul class="nav">
+						<li class="span2"><a href="../view/products.html">NBI.com</a></li>
+						<li class="active span6"></li>
+						<li class="span2"><a href="#"> My Cart </a></li>
+						<!-- Sign In -->
+						<li><a href="#"> Sign Out </a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<img src="assets/img/shoppingcart.jpg" class="span5" />
+
+		<form id="login" class="well span6" onsubmit="return false;">
+			<input type="text" id="userName" class="span3" placeholder="Username"
+				value="" /> <input type="password" id="passwd" class="span3"
+				placeholder="Password" value="" />
+			<button class="btn btn-primary" id="login" onclick="LogInfun()">Login</button>
+			<input type="reset" id="clear" class="btn" value="Clear" />
+			<h6 id="h6" style="color: red"></h6>
+		</form>
+
+
+	</div>
+	<script src="assets/js/bootstrap.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
+	<script src="assets/js/signIn.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> The Next Basket Item </title>
+	<link type="text/css" rel="stylesheet" href="assets/css/bootstrap.css"/>
+</head>
+
+
+<body>
+<img src="assets/img/shoppingcart.jpg" class="span2" />
+<div class="container">
+	<h1><a href="#">The Next Basket Item</a></h1>
+		<div class="navbar">
+              <div class="navbar-inner">
+                <div class="container">
+                  <ul class="nav">
+                    <li class="span2"><a href="#">NBI.com</a></li>
+					<li class="active span6"></li>
+					<li class="span2"><a href="#"> My Cart </a></li> <!-- Sign In -->
+                    <li><a href="#"> Sign Out </a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+</div>	
+<div>
+<ul class="nav nav-list span3">
+    <li class="nav-header">What we sell?</li>
+    <!--  <li class="active"><a href="#">What we sell?</a></li> -->
+    <li><a href="/CloudServices/rest/users/comp">Computers</a></li>
+    <li><a href="/CloudServices/rest/users/elec">Electronics</a></li>
+    <li><a href="/CloudServices/rest/users/musnmov">Music & Movies</a></li>
+    <!--  <li><a href="#">Contact Us</a></li>  -->
+    <li class="nav-header">Join Us</li>
+    <li><a href="#">Google+</a></li>
+    <li><a href="#">Facebook</a></li>
+    <li><a href="#">Twitter</a></li>
+    <li><a href="#">Pinterest</a></li>
+    <li><a href="#">My Space</a></li>
+</ul>
+	
+</div>
+<!--  Displaying general two items from each department here.-->
+<!--  On clicking a department will change the products displayed here. Use span8 -->
+<table border="0">
+	<tr>
+			<td width="300" align="center">
+				<a href="/CloudServices/rest/users/product/2483414354"> <img src=http://www.buylowdeals.pricedealsreview.pw/images/Casio-Mens-PRW2500T-7CR-Pathfinder-Triple-Sensor-Tough-Solar-Digital-Multi-Function-Titanium-Pathfinder-Casual-Watch.jpg height="100" width="100"> </a> <br /> 
+				<a href="/CloudServices/rest/users/product/2483414354"> Casio Men's PRW2500T-7CR Pathfinder Triple Sensor Tough Solar Digital Multi-Function Titanium Pathfinder Casual Watch </a> <br /> 
+				Price :  300 <br /> 
+			</td>
+			<td width="300" align="center">
+				<a href="/CloudServices/rest/users/product/34315454540511"> <img src=http://americanhunnys.com/wp-content/uploads/2014/02/Amour-Womens-Flirty-Strings-One-Shoulder-Romper-Clubwear-0.jpg height="100" width="100"> </a> <br /> 
+				<a href="/CloudServices/rest/users/product/34315454540511"> Amour Women's Flirty Strings One Shoulder Romper Clubwear </a> <br /> 
+				Price :  235.66 <br /> 
+			</td>
+			<td width="300" align="center">
+				<a href="/CloudServices/rest/users/product/43844434335"> <img src=http://ecx.images-amazon.com/images/I/81ZF5el9b-L._SL1500_.jpg height="100" width="100"> </a> <br /> 
+				<a href="/CloudServices/rest/users/product/43844434335"> Haggar Men's Big And Tall Tonal Windowpane </a> <br /> 
+				Price :  300 <br /> 
+			</td>
+	</tr>
+	<tr>
+			<td width="300" align="center">
+				<a href="/CloudServices/rest/users/product/79968"> <img src=http://ecx.images-amazon.com/images/I/51whXH6pugL._SX342_.jpg height="100" width="100"> </a> <br /> 
+				<a href="/CloudServices/rest/users/product/79968"> N'ice Caps Boys Digital Circle Scroll Print Ski Glove </a> <br /> 
+				Price :  10.99 <br /> 
+			</td>
+			<td width="300" align="center">
+				<a href="/CloudServices/rest/users/product/2844341541"> <img src=http://i.tfcdn.com/img2/-DJlAUIAY5r875B0YkFBYlFqDkNGSUmBlb5-anKFXmZuYnpqsW5ibmJVfp5ecn6uPkRE31PfxNAjODQ7MSszykcvqyAdAA**/fvUG-v8A.B height="100" width="100"> </a> <br /> 
+				<a href="/CloudServices/rest/users/product/2844341541"> DV by Dolce Vita Women's Viera Sandal </a> <br /> 
+				Price :  63.95 <br /> 
+			</td>
+			<td width="300" align="center">
+				<a href="/CloudServices/rest/users/product/4343434384"> <img src=http://g-ecx.images-amazon.com/images/G/01/img11/shoes/a_plus_detail/c26-B0058C6NAQ-1-l.jpg height="100" width="100"> </a> <br /> 
+				<a href="/CloudServices/rest/users/product/4343434384"> ASICS Men's GEL-Kayano </a> <br /> 
+				Price :  299.99 <br /> 
+			</td>
+	</tr>
+	<tr>
+			<td width="300" align="center">
+				<a href="/CloudServices/rest/users/product/354563483495"> <img src=http://www.fasionaz.com/images/72100/attachment-full/Women's+Sexy+Polo+Neck+Floral+Lace+Cocktail+Evening+Mini+Dress+Party+Clubwear+(Black).jpg height="100" width="100"> </a> <br /> 
+				<a href="/CloudServices/rest/users/product/354563483495"> Women's Sexy Polo Neck Floral Lace Cocktail Evening Mini Dress Party Clubwear </a> <br /> 
+				Price :  99.99 <br /> 
+			</td>
+			<td width="300" align="center">
+				<a href="/CloudServices/rest/users/product/354843434"> <img src=http://i.stpost.com/millennium-creations-round-gemstone-accent-pendant-necklace-10k-gold-in-amethyst~p~6364k_02~1500.2.jpg height="100" width="100"> </a> <br /> 
+				<a href="/CloudServices/rest/users/product/354843434"> 10k Gold Round Gemstone Pendant Necklace  </a> <br /> 
+				Price :  800 <br /> 
+			</td>
+	</tr>
+</table>
+
+<!-- Product Display ends here -->
+<!-- Footer starts here -->
+
+
+</div>
+</body>
+</html>
